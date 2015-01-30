@@ -1,0 +1,948 @@
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\KeyPassUserInterface\bin\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\KeyPassUserInterface\bin\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\KeyPassSolution\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\KeyPassSolution\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\KeyPass Play with\KeyPassSolution\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\KeyPass Play with\KeyPassSolution\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass Play with\KeyPassSolution\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass Play with\KeyPassSolution\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass Play with\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass\KeyPassSolution\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass\KeyPassSolution\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPass\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeyPassSolution\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project3 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project3 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project4 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V1\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V3\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V4\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V5\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 V13\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 V14\Project5 V13\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 V15\Project5 V15\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V15 A\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordVerificationForm.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyPassLaunchForm.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordVerificationForm.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V17\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 V18\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project5 19\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v20\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v21\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v22\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v25withARGB\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v26\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v28\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\Bin\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\Bin\KeyPassUserInterface.pdb
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\Bin\KeyPassUserInterface.dll
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\Bin\KeyPassUserInterface.pdb
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csprojResolveAssemblyReference.cache
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.AboutForm.resources
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.ClockControl.resources
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.DropboxOpen.resources
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupAddEditForm.resources
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.GroupTreeControl.resources
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyAddEditForm.resources
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyDetailControl.resources
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.KeyListControl.resources
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.PasswordForm.resources
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MainForm.resources
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.MDIChildForm.resources
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.Properties.Resources.resources
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.StatusStripControl.resources
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.UserPreferencesForm.resources
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.csproj.GenerateResource.Cache
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.dll
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassUserInterface\obj\Debug\KeyPassUserInterface.pdb

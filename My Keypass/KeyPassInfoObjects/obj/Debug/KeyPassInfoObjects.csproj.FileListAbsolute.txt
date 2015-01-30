@@ -1,0 +1,134 @@
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Documents\Visual Studio 2013\Projects\KeypassAlmostDone\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Downloads\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Mael.Jared.V1 (6)\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project3 V2\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project3 V3\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project4 V1\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project4 V2\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project4 V3\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project5 V6\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project5 V7\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project5 V8\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project5 V9\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project5 V10\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 V11\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 V12\Project5 V11\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 v23\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 v24\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 v24withARGB\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 v27\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 v29\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 v30\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\Final Project needed to edit again\Project 5 v31\Mael.Jared.V1\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+C:\Users\Jared\Desktop\KeypassFinal\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.dll
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassInfoObjects\bin\Debug\KeyPassInfoObjects.pdb
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.csprojResolveAssemblyReference.cache
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.dll
+F:\Projects\Keypass Versions\Keypass Final\My Keypass\KeyPassInfoObjects\obj\Debug\KeyPassInfoObjects.pdb

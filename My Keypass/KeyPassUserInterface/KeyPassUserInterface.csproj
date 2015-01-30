@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F0DE4B6A-0371-41A9-9C50-7641E653F554}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KeyPassUserInterface</RootNamespace>
+    <AssemblyName>KeyPassUserInterface</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DropNet">
+      <HintPath>..\packages\DropNet.1.9.6\lib\net40\DropNet.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp">
+      <HintPath>..\packages\RestSharp.104.1\lib\net4\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VirtualPath">
+      <HintPath>..\packages\VirtualPath.0.3.0\lib\net45\VirtualPath.dll</HintPath>
+    </Reference>
+    <Reference Include="VirtualPath.DropNet">
+      <HintPath>..\packages\VirtualPath.DropNet.0.3.0\lib\net45\VirtualPath.DropNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClockControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ClockControl.Designer.cs">
+      <DependentUpon>ClockControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DropboxOpen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DropboxOpen.Designer.cs">
+      <DependentUpon>DropboxOpen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EventLogManager.cs" />
+    <Compile Include="GroupAddEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GroupAddEditForm.Designer.cs">
+      <DependentUpon>GroupAddEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupAddedOrEditedEvent.cs" />
+    <Compile Include="GroupTreeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GroupTreeControl.Designer.cs">
+      <DependentUpon>GroupTreeControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KeyAddEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KeyAddEditForm.Designer.cs">
+      <DependentUpon>KeyAddEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KeyAddedorChangedEvent.cs" />
+    <Compile Include="KeyDetailControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KeyDetailControl.Designer.cs">
+      <DependentUpon>KeyDetailControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KeyListControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KeyListControl.Designer.cs">
+      <DependentUpon>KeyListControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasswordForm.Designer.cs">
+      <DependentUpon>PasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIChildForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIChildForm.Designer.cs">
+      <DependentUpon>MDIChildForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="StatusStripControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StatusStripControl.Designer.cs">
+      <DependentUpon>StatusStripControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPreferencesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserPreferencesForm.Designer.cs">
+      <DependentUpon>UserPreferencesForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClockControl.resx">
+      <DependentUpon>ClockControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DropboxOpen.resx">
+      <DependentUpon>DropboxOpen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupAddEditForm.resx">
+      <DependentUpon>GroupAddEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GroupTreeControl.resx">
+      <DependentUpon>GroupTreeControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KeyAddEditForm.resx">
+      <DependentUpon>KeyAddEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KeyDetailControl.resx">
+      <DependentUpon>KeyDetailControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KeyListControl.resx">
+      <DependentUpon>KeyListControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasswordForm.resx">
+      <DependentUpon>PasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIChildForm.resx">
+      <DependentUpon>MDIChildForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StatusStripControl.resx">
+      <DependentUpon>StatusStripControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPreferencesForm.resx">
+      <DependentUpon>UserPreferencesForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KeyPassBusiness\KeyPassBusiness.csproj">
+      <Project>{198a6e32-823c-4d2b-a3bf-8620a60927e7}</Project>
+      <Name>KeyPassBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KeyPassInfoObjects\KeyPassInfoObjects.csproj">
+      <Project>{4146c937-dc8f-416f-b196-233f64612651}</Project>
+      <Name>KeyPassInfoObjects</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

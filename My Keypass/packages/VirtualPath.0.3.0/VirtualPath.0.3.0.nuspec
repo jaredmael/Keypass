@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>VirtualPath</id>
+    <version>0.3.0</version>
+    <authors>Guillaume Lecomte</authors>
+    <owners>Guillaume Lecomte</owners>
+    <licenseUrl>https://raw.github.com/guillaume86/VirtualPath/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/guillaume86/VirtualPath</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple abstraction layer over file system like APIs</description>
+    <language>en-US</language>
+    <tags>interface testing abstraction filesystem virtualpath</tags>
+  </metadata>
+</package>

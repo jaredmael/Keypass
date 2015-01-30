@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>VirtualPath.DropNet</id>
+    <version>0.3.0</version>
+    <authors>Guillaume Lecomte</authors>
+    <owners>Guillaume Lecomte</owners>
+    <licenseUrl>https://raw.github.com/guillaume86/VirtualPath/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/guillaume86/VirtualPath</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DropNet library wrapper for VirtualPath</description>
+    <language>en-US</language>
+    <tags>virtualpath dropbox dropnet</tags>
+    <dependencies>
+      <dependency id="VirtualPath" version="0.3.0" />
+      <dependency id="DropNet" version="1.9.6" />
+    </dependencies>
+  </metadata>
+</package>
